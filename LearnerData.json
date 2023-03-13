@@ -1,0 +1,57 @@
+[
+	{
+		"Name":"Rammohan",
+		"EmailId":"mram@blsite.com",
+		"Education":{
+			"Qualification" : "BE",
+			"Stream":"Computer Science",
+			"YearOfPassOut" : "2022"
+		},
+		"LocationPreferences" : ["South","North","West"]
+	},
+
+	{
+		"Name":"Sita",
+		"EmailId":"skumari@blsite.com",
+		"Education":{
+			"Qualification" : "BE",
+			"Stream":"IT",
+			"YearOfPassOut" : "2016"
+		},
+		"LocationPreferences" : ["South","East"]
+	},
+
+	{
+		"Name":"Geeta",
+		"EmailId":"geeta_10ram@blsite.com",
+		"Education":{
+			"Qualification" : "MCA",
+			"Stream":"",
+			"YearOfPassOut" : "2019"
+		},
+		"LocationPreferences" : ["West"]
+	},
+
+	{
+		"Name":"Peter",
+		"EmailId":"cpeter22@blsite.com",
+		"Education":{
+			"Qualification" : "BE",
+			"Stream":"Civil",
+			"YearOfPassOut" : "2021"
+		},
+		"LocationPreferences" : ["West","South"]
+	},
+
+	{
+		"Name":"Shabnam",
+		"EmailId":"sbano321@blsite.com",
+		"Education":{
+			"Qualification" : "BE",
+			"Stream":"Computer Science",
+			"YearOfPassOut" : "2022"
+		},
+		"LocationPreferences" : ["South"]
+	}
+
+]
